@@ -1,0 +1,8 @@
+{
+"Line_Api_Token":"line api token",
+"Currency_Pairs":"ETH/USDT",
+"Sell_Price":2495,
+"Buy_Price":2480,
+"heartbeat_seconds":3600,
+"check_interval":60
+}
